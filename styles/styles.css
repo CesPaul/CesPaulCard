@@ -114,4 +114,5 @@ p {
     font-size: 20pt; /* Размер шрифта в пунктах */
     text-indent: 50px; /* Отступ первой строки в пикселах */
     line-height: 1.5;
+    text-align: justify;
    }
