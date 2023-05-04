@@ -1,1 +1,1 @@
-Welcome to my card website!
+CV direct link: https://cespaul.github.io/website/resourses/files/cv_Pavel_Gumennikov.pdf
